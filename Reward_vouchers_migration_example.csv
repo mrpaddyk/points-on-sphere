@@ -1,3 +1,0 @@
-﻿MemberKey;PromotionName;CreatedOn;ExpiryDate;ValidFrom;RewardVoucherValues;BonusPoints;Value;UniqueCode;Used;UsedBy;UsedStoreId;UsedByInvoiceExternalId
-10000001;Q1 Bonus;2018-01-19T10:36:57+01:00;2018-07-19T10:36:57+01:00;2018-01-19T10:36:57+01:00;"[{""Currency"":""EUR"",""Amount"":5.00},{""Currency"":""NOK"",""Amount"":50.00},{""Currency"":""SEK"",""Amount"":50.00}]";1000;100;A0001;1;;Store1;INVOICE-1
-10002222;Q4 Bonus;2017-11-19T10:36:58+01:00;2018-05-19T10:36:58+01:00;2017-01-19T10:36:58+01:00;"[{""Currency"":""EUR"",""Amount"":5.00},{""Currency"":""NOK"",""Amount"":50.00},{""Currency"":""SEK"",""Amount"":50.00}]";1000;100;A0002;0;;1;INVOICE-2
