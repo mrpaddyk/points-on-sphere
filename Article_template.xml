@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<articles>
+  <article>
+    <sku />
+    <number />
+    <name />
+    <awardsbonus />
+    <brand />
+    <color />
+    <size />
+    <maincategory />
+    <productcategory />
+    <subcategory />
+    <agegroup />
+    <gender />
+    <description />
+    <season />
+    <gtin />
+    <spare1 />
+    <spare2 />
+    <spare3 />
+    <spare4 />
+    <spare5 />
+    <spare6 />
+    <spare7 />
+    <spare8 />
+    <spare9 />
+    <spare10 />
+  </article>
+</articles>
